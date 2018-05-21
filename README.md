@@ -1,0 +1,2 @@
+# MyCode
+Python Training Repo
