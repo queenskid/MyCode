@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 
-# two list of protocols, to demostrate extend and append method
+# two list of protocols, to demostrate extend and append method. 
 
 proto = ['ssh', 'http', 'https']
 protoa = ['ssh', 'http', 'https']
 print(proto)
 print(proto[1])
 
-# Now we will use append and extend to see how the different methods execute. 
+# Using append and extend to see how the different methods execute. 
 
 # Append will add 'dns' to the end of the list to both the proto and protoa list created. 
 proto.append('dns')
