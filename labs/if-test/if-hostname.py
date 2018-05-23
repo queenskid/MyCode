@@ -11,4 +11,4 @@ if hostname == 'MTG':
 else:
 	print('That is not your hostname, sorry, try again.')
 
-print('Exiting the script')
+print('Exiting The Script')
