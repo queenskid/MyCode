@@ -1,0 +1,6 @@
+export OS_AUTH_URL=http://controller.35357/v2/
+export OS_PROJECT_NAME=myproject
+export OS_PROJECT_DIMAIN_NAME=default
+export OS_USERNAME=admin
+export OS_USER_DOMAIN_NAME=default
+export OS_PASSWORD=alta3
