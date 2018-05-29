@@ -10,8 +10,7 @@ def main():
     for line in welcome:
         print(line, sep='\n')
 
-    # This will keep the loop true thoughout until condition is not met.
-
+    # This will keep the loop true thoughout until condition is not met
     play_again = True
 
     while play_again:
@@ -25,6 +24,7 @@ def main():
         player_guess = None
         # emtpy array to pass in guessed letters from the user
         guessed_letters = []
+        # empty array to store the word guessed correctly
         word_guessed = []
         for letter in chosen_word:
             # create a blank version of the secret word selected at random. this will help in drawing out the dashes for the user to track attempt.
@@ -81,7 +81,7 @@ def main():
 -----
 |   |
 |   0
-| /-+-\
+| /-+-\\
 |
 |
 |
